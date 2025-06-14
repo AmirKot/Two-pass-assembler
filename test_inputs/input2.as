@@ -1,0 +1,9 @@
+.data 
+.entry AB
+.entry 3AB
+.entry "AB"
+L2: .entry L1
+L2:.entry L1
+L2 .entry L1
+.entry L3 ,L2
+.entry L1,L2

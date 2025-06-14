@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+._*
+
+# Compiled binary files
+*.o
+*.out
+*.ob
+*.ent
+*.ext
+
+# Backup and temp files
+*~
+*.log
+
+# IDE / editor configs
+.vscode/
+*.swp
+
+# Build artifacts
+assembler
