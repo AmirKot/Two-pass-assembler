@@ -116,4 +116,4 @@ Feel free to fork, star ⭐ the repo, or open an issue if you'd like to contribu
 
 ## 🔗 Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/amir-kot-0a7598369)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amir-kot-0a7598369)
